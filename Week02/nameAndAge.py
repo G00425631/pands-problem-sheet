@@ -9,3 +9,4 @@ print(f'Hello {name},\t your age is {age}.')
 
 fakeage= int(age) -4
 print(f'Your fake age is:{fakeage}')
+
